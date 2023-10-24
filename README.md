@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **test**
 
-- 👨‍💻 All of my projects are available at [zacharywebsites.com](zacharywebsites.com)
+- 👨‍💻 All of my projects are available at [https://www.zacharywebsites.com](zacharywebsites.com)
 
 - 📫 How to reach me **zacharyranderson228@gmail.com**
 
