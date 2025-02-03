@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Zachary Anderson</h1>
+<h1 align="center">Hi 👋, I'm Zach Anderson</h1>
 <h3 align="center">test</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zacharyranderson&label=Profile%20views&color=0e75b6&style=flat" alt="zacharyranderson" /> </p>
 
 - 🔭 I’m currently working on **test**
 
-- 👨‍💻 All of my projects are available at [zacharywebsites.com](https://www.zacharywebsites.com)
+- 👨‍💻 All of my projects are available at [zach-anderson.com](https://www.zach-anderson.com)
 
 - 📫 How to reach me **zacharyranderson228@gmail.com**
 
